@@ -1,0 +1,1 @@
+# ck-hotel-front-end
