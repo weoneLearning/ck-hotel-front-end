@@ -593,6 +593,7 @@ header .search-bar-container label:hover {
 
 .footer .box-container .box {
     padding: 1rem 0;
+    margin: 0.8rem;
     flex: 1 1 25rem;
 }
 
