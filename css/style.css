@@ -277,6 +277,10 @@ header .search-bar-container label:hover {
     padding: 0.5rem 0;
 }
 
+.home .content p span {
+    color: var(--orange);
+}
+
 .home .video-container video {
     position: absolute;
     top: 0;
